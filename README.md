@@ -14,7 +14,7 @@ this tool grap ip from the server , scan ,examinate of ports and encryption and 
 
 1? - Download the tool from github
 
-git clone https://github.com/
+git clone https://github.com/kimazr15/kimazr.git
 
 
 
