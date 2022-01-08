@@ -4,7 +4,6 @@
 
 Author: kimazr
 
-Special thanks to my friend salah
 
 ## ★ Description:
 
