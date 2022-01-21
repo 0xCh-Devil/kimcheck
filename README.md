@@ -2,7 +2,7 @@
 
 ## ★ kimcheck Tool 🌐
 
-Author: kimazr
+Author: 0xch
 
 
 ## ★ Description:
