@@ -1,32 +1,4 @@
 
-
-## ★ kimcheck Tool 🌐
-
-Author: 0xch
-
-
-## ★ Description:
-
-this tool grap ip from the server , scan ,examinate of ports and encryption and decryption of the hash and also have other characteristics
-
-## ★ How To Use:
-
-1? - Download the tool from github
-
-git clone https://github.com/kimazr15/kimazr.git
-
-
-
-cd kimcheck
-
-chmod +x installer.sh
-
-./installer.sh
-
-3?- Run kimcheck tool in terminal
-
-
-
 ## ★ Properties :
 
 ● Get All Websites
